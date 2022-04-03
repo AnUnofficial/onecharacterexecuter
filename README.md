@@ -1,4 +1,4 @@
-# onecharacterexecuter
+# One Character Executer
 Executes python based on characters in a chosen file extension.
 
 Basically, go to where it says `i.endswith(".")` and replace that with your file extension.
